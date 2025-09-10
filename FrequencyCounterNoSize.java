@@ -35,5 +35,6 @@ public class FrequencyCounterNoSize {
             firstPrinted = false;
         }
         System.out.println("}");
+        sc.close();
     }
 }
